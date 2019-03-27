@@ -3,7 +3,7 @@ In a Stroop task, participants are presented with a list of words, with each wor
 
 The task has two conditions: a congruent words condition, and an incongruent words condition.  In the congruent words condition, the words being displayed are color words whose names match the colors in which they are printed.  In the incongruent words condition, the words displayed are color words whose names do not match the colors in which they are printed.
 
-![alt text](https://commons.wikimedia.org/wiki/File:Stroop_effect_memory_test.png)
+![words_image](https://commons.wikimedia.org/wiki/File:Stroop_effect_memory_test.png)
 
 In each case, the time it takes to name the ink colors in equally-sized lists are measured. Each participant will go through and record a time from each condition.
 
